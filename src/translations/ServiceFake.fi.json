@@ -1,0 +1,19 @@
+{
+  "serviceFake.foldableCardTitle": "Fake",
+  "serviceFake.serviceInfoCardTitle": "Sovellus Fake",
+  "serviceFake.unfoldableCardTitle": "Näin otat käyttöön",
+  "serviceFake.step1Description": "<strong>Käyttöönotto-ohje</strong> opastaa palvelun käyttöönoton laitteellesi.",
+  "serviceFake.step2Description": "Ohje <strong>Käyttö joukossa</strong> opastaa, miten käytät sovellusta perusmallin mukaisesti.",
+  "serviceFake.step3Description": "<strong>Viestiperustepaketti</strong> sisältää ladattavat henkilökohtaiset perusteesi.",
+  "serviceFakeUsageCard.title": "Käyttötarkoitus lyhyesti",
+  "serviceFakeUsageCard.content": "<ul><li>Käyttäjiesi seuranta reaaliajassa <em>(GPS).</em></li><li>Lähetä havaintoja komentopaikalle. (HQ) tulkittavaksi</li><li>Seuraa <strong>Recon Feediä</strong></li></ul>",
+  "serviceFake.guideButton.quickStart": "Käyttöönotto",
+  "serviceFake.guideButton.usage": "Käyttö joukossa",
+  "serviceFake.grabZipButton": "Avaa Fake",
+  "serviceFakeUsageView.navbarTitle": "Fakein käyttöohje",
+  "serviceFakeUsageView.title": "Fakein käyttöohje",
+  "serviceFakeUsageView.subTitle1": "1. Creating a new event",
+  "serviceFakeUsageView.subTitle2": "2. Searching existing events",
+  "serviceFakeUsageView.subTitle3": "3. Viewing existing events",
+  "serviceFakeUsageView.subTitle4": "4. Single event view"
+}
